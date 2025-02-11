@@ -1,4 +1,3 @@
-```markdown
 # SQLite to Snowflake Data Pipeline with Airflow
 
 ![Airflow to Snowflake](https://img.shields.io/badge/Apache%20Airflow-017CEE?logo=apacheairflow&logoColor=white)
