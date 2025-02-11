@@ -70,8 +70,8 @@ sequenceDiagram
 
 ### 1. Clone Repository
 ```bash
-git clone https://github.com/waitambatha/sqlite-to-snowflake.git
-cd sqlite-to-snowflake
+git clone git@github.com:waitambatha/SQLite-to-Snowflake-Data-Pipeline.git
+cd SQLite-to-Snowflake-Data-Pipeline
 ```
 
 ### 2. Prepare SQLite Data
